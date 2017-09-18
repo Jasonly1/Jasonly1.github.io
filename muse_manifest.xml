@@ -1,87 +1,187 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Jasonly.com" resolutions="1x" timestamp="1480305503818">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jasonly.com" resolutions="1x" timestamp="1505695715067">
   <folder name="css">
-    <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="4448631" ref="index"/>
-    <file name="nomq_index.css" crc="48811281" ref="index"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="387656724" ref="index"/>
+    <file name="nomq_index.css" crc="272525379" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
-    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="169177150" ref="index"/>
-    <file name="webpro.js" crc="4067903014" ref="index"/>
-    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
-    <file name="touchswipe.js" crc="474750357" ref="index"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
-    <file name="require.js" crc="4108833657" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="1900x938 homepage-u580.png" crc="4000316562" ref="index"/>
-    <file name="logo 2 (72dpi).png" crc="4178405944" seo="true" ref="index"/>
-    <file name="u885-7.png" crc="204917998" ref="index"/>
-    <file name="14 day statistics.jpg" crc="4149649187" seo="true" ref="index"/>
+    <file name="1900x938 homepage-crop-u580.jpg" crc="443522808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo 2 (72dpi).png" crc="3790499470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u885-7.png" crc="3858640380" ref="index"/>
+    <file name="14 day statistics.jpg" crc="4149649187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="14 day statistics (2).jpg" crc="499289618" seo="true" ref="index"/>
-    <file name="click preview.jpg" crc="4182691962" seo="true" ref="index"/>
-    <file name="click cover.jpg" crc="18272569" seo="true" ref="index"/>
-    <file name="click article.jpg" crc="4199855942" seo="true" ref="index"/>
-    <file name="click article 2.jpg" crc="3988302945" seo="true" ref="index"/>
-    <file name="click article 3.jpg" crc="3871728280" seo="true" ref="index"/>
-    <file name="cat in the rain book.jpg" crc="136704247" seo="true" ref="index"/>
-    <file name="asoa bus shelter.jpg" crc="4015346549" seo="true" ref="index"/>
-    <file name="moving image t-shirt.jpg" crc="528925107" seo="true" ref="index"/>
-    <file name="mutube poster.jpg" crc="3770126954" seo="true" ref="index"/>
-    <file name="ly_jason_creating opportunities poster.jpg" crc="536274317" seo="true" ref="index"/>
-    <file name="u3761-4.png" crc="168842463" ref="index"/>
-    <file name="u3744-4.png" crc="71153819" ref="index"/>
+    <file name="14 day statistics (2).jpg" crc="499289618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="click preview.jpg" crc="4182691962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="click cover.jpg" crc="18272569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="click article.jpg" crc="4199855942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="click article 2.jpg" crc="3988302945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="click article 3.jpg" crc="3871728280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cat in the rain book.jpg" crc="136704247" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asoa bus shelter.jpg" crc="4015346549" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moving image t-shirt.jpg" crc="528925107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mutube poster.jpg" crc="3770126954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ly_jason_creating opportunities poster.jpg" crc="536274317" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3761-4.png" crc="7561034" ref="index"/>
+    <file name="u3744-4.png" crc="206089978" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="thumbs up.jpg" crc="4231253524" seo="true" ref="index"/>
-    <file name="work kit.jpg" crc="279650612" seo="true" ref="index"/>
-    <file name="back to top.png" crc="42385203" seo="true" ref="index"/>
-    <file name="u1177-4.png" crc="395484874" ref="index"/>
-    <file name="u647-45.png" crc="146684334" ref="index"/>
-    <file name="u3914-4.png" crc="4001368368" ref="index"/>
-    <file name="u1153-4.png" crc="284930305" ref="index"/>
-    <file name="u788-4.png" crc="3880417598" ref="index"/>
-    <file name="u776-4.png" crc="3777075704" ref="index"/>
-    <file name="u635-4.png" crc="71475207" ref="index"/>
-    <file name="u653-6.png" crc="4101031325" ref="index"/>
-    <file name="1900x938 homepage.jpg" crc="4046064348" seo="true" ref="index"/>
-    <file name="u885-72.png" crc="3927613999" ref="index"/>
-    <file name="u788-42.png" crc="369873599" ref="index"/>
-    <file name="u3761-42.png" crc="168842463" ref="index"/>
-    <file name="u3744-42.png" crc="71153819" ref="index"/>
-    <file name="u1177-42.png" crc="103610107" ref="index"/>
-    <file name="u3914-42.png" crc="3933701373" ref="index"/>
-    <file name="u647-452.png" crc="236696166" ref="index"/>
-    <file name="u1153-42.png" crc="4232861598" ref="index"/>
-    <file name="u653-62.png" crc="24752737" ref="index"/>
-    <file name="u635-42.png" crc="43859262" ref="index"/>
-    <file name="u776-42.png" crc="341957924" ref="index"/>
-    <file name="u885-73.png" crc="207589730" ref="index"/>
-    <file name="u635-43.png" crc="3770998861" ref="index"/>
-    <file name="u776-43.png" crc="117897336" ref="index"/>
-    <file name="u788-43.png" crc="387043890" ref="index"/>
-    <file name="u3761-43.png" crc="168842463" ref="index"/>
-    <file name="u3744-43.png" crc="71153819" ref="index"/>
-    <file name="u1177-43.png" crc="492978197" ref="index"/>
-    <file name="u3914-43.png" crc="4237606286" ref="index"/>
-    <file name="u647-453.png" crc="386619810" ref="index"/>
-    <file name="u1153-43.png" crc="68446380" ref="index"/>
-    <file name="u653-63.png" crc="74439947" ref="index"/>
-    <file name="u635-44.png" crc="130228411" ref="index"/>
-    <file name="u776-44.png" crc="4249516614" ref="index"/>
-    <file name="u788-44.png" crc="298777577" ref="index"/>
-    <file name="u885-74.png" crc="103523987" ref="index"/>
-    <file name="u3914-44.png" crc="3979776709" ref="index"/>
-    <file name="u3761-44.png" crc="168842463" ref="index"/>
-    <file name="u3744-44.png" crc="71153819" ref="index"/>
-    <file name="u1177-44.png" crc="3880353469" ref="index"/>
-    <file name="u647-454.png" crc="470580141" ref="index"/>
-    <file name="u1153-44.png" crc="407220023" ref="index"/>
-    <file name="u653-64.png" crc="339695077" ref="index"/>
+    <file name="thumbs up.jpg" crc="4231253524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="work kit.jpg" crc="279650612" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3914-4.png" crc="4247941550" ref="index"/>
+    <file name="u1153-4.png" crc="3919570392" ref="index"/>
+    <file name="back to top-crop-u4941.png" crc="3776156998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back to top-crop-u4859.png" crc="3776156998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1177-4.png" crc="3817283157" ref="index"/>
+    <file name="u647-43.png" crc="345932183" ref="index"/>
+    <file name="back to top-crop-u4897.png" crc="3776156998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u788-4.png" crc="3920353392" ref="index"/>
+    <file name="u776-4.png" crc="4177469492" ref="index"/>
+    <file name="u635-4.png" crc="4009679405" ref="index"/>
+    <file name="u653-4.png" crc="509295757" ref="index"/>
+    <file name="1900x938 homepage.jpg" crc="4046064348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u885-72.png" crc="4175923788" ref="index"/>
+    <file name="u3761-42.png" crc="7561034" ref="index"/>
+    <file name="u3744-42.png" crc="206089978" ref="index"/>
+    <file name="u788-42.png" crc="4112406414" ref="index"/>
+    <file name="back to top.png" crc="87832800" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1177-42.png" crc="3807027029" ref="index"/>
+    <file name="u3914-42.png" crc="3936377150" ref="index"/>
+    <file name="u647-432.png" crc="3918298948" ref="index"/>
+    <file name="u1153-42.png" crc="3962095939" ref="index"/>
+    <file name="u653-42.png" crc="3821609538" ref="index"/>
+    <file name="u635-42.png" crc="3877301498" ref="index"/>
+    <file name="u776-42.png" crc="367170455" ref="index"/>
+    <file name="u885-73.png" crc="3861240571" ref="index"/>
+    <file name="u635-43.png" crc="180473333" ref="index"/>
+    <file name="u776-43.png" crc="145693521" ref="index"/>
+    <file name="u788-43.png" crc="4028226243" ref="index"/>
+    <file name="u1177-43.png" crc="3906149736" ref="index"/>
+    <file name="u3914-43.png" crc="3873101246" ref="index"/>
+    <file name="u647-433.png" crc="3791311370" ref="index"/>
+    <file name="u1153-43.png" crc="4055044789" ref="index"/>
+    <file name="u653-43.png" crc="3893467703" ref="index"/>
+    <file name="u3761-43.png" crc="7561034" ref="index"/>
+    <file name="u3744-43.png" crc="206089978" ref="index"/>
+    <file name="u3761-44.png" crc="7561034" ref="index"/>
+    <file name="u3744-44.png" crc="206089978" ref="index"/>
+    <file name="u635-44.png" crc="3810342604" ref="index"/>
+    <file name="u776-44.png" crc="369611243" ref="index"/>
+    <file name="u788-44.png" crc="484943173" ref="index"/>
+    <file name="u885-74.png" crc="4157187921" ref="index"/>
+    <file name="u3914-44.png" crc="317340368" ref="index"/>
+    <file name="u1177-44.png" crc="3987913028" ref="index"/>
+    <file name="u647-434.png" crc="530170617" ref="index"/>
+    <file name="u1153-44.png" crc="4217236944" ref="index"/>
+    <file name="u653-44.png" crc="4258940070" ref="index"/>
   </folder>
-  <file name="index.html" crc="4271064542" seo="true" mt="1480305310024" redirect="true"/>
+  <file name="index.html" crc="114500440" seo="true" mt="1505695660150" redirect="true"/>
 </manifest>
